@@ -1,16 +1,6 @@
-# Ampere
-Source for Ampere tweak for iOS 14, 15 & 16
+# NotchBattery
 
-Available on [Havoc Repo](https://havoc.app/package/ampere)
+Install(Wait until the Havoc application is approved.)
 
-![banner](https://mtac.app/repo/assets/com.mtac.ampere/banner.png)
+![banner](banner.png)
 
-## Building
-
-`git clone https://github.com/MTACS/Ampere.git`
-
-`cd Ampere`
-
-`make do`
-
-Make sure to set `PREFIX` and `THEOS_DEVICE_IP` to your setup and current device
