@@ -1,0 +1,10 @@
+Package: jp.amania.notchbattery
+Name: Notch Battery
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Add a percentage to the battery icon (a fork of Ampere and inspired by EnableBatteryPercent)
+Maintainer: amania
+Author: amania
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 15.0), preferenceloader
+Icon: ampere.png
